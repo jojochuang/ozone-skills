@@ -1,3 +1,11 @@
+---
+name: release-manager
+description: >-
+  Verify environment, sign, and build Apache Ozone releases. Use when performing
+  release management, GPG verification, Jira prep, protolock updates, maven staging,
+  release candidate builds, or using the Sherpa docker environment.
+---
+
 # Apache Ozone Release Manager Agent Playbook & Skill
 
 > [!CAUTION]
